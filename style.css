@@ -1,0 +1,50 @@
+/***********************************
+Stylesheet for Zander Gibney
+***********************************/
+
+body {
+    background-color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+h2 {
+    font-size: 40px;
+    text-decoration: underline;
+    font-style: italic;
+    color: turquoise;
+    
+}
+
+img {
+    width: 100%;
+}
+
+.divider {
+    background-color: steelblue;
+    height: 20px;
+    width: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.row {
+    display: flex;
+  }
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+.text {
+    font-size: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
