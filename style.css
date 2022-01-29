@@ -53,3 +53,14 @@ img {
     margin-left: 20px;
     text-align: left;
 }
+
+.inline {
+    display: inline-block;
+}
+
+.caption {
+    vertical-align: top;
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+}
